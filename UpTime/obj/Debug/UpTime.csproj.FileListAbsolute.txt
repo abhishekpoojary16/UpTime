@@ -1,0 +1,9 @@
+D:\Projects\UpTime\UpTime\bin\Debug\UpTime.exe.config
+D:\Projects\UpTime\UpTime\bin\Debug\UpTime.exe
+D:\Projects\UpTime\UpTime\bin\Debug\UpTime.pdb
+D:\Projects\UpTime\UpTime\obj\Debug\UpTime.csprojResolveAssemblyReference.cache
+D:\Projects\UpTime\UpTime\obj\Debug\UpTime.Form1.resources
+D:\Projects\UpTime\UpTime\obj\Debug\UpTime.Properties.Resources.resources
+D:\Projects\UpTime\UpTime\obj\Debug\UpTime.csproj.GenerateResource.Cache
+D:\Projects\UpTime\UpTime\obj\Debug\UpTime.exe
+D:\Projects\UpTime\UpTime\obj\Debug\UpTime.pdb
